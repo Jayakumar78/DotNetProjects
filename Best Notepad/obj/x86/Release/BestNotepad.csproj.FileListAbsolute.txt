@@ -1,5 +1,6 @@
 C:\GitDotNetProjects\Best Notepad\bin\Release\Best Notepad.exe
 C:\GitDotNetProjects\Best Notepad\bin\Release\Best Notepad.pdb
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\BestNotepad.csprojAssemblyReference.cache
 C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.notepad1.resources
 C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.Login.resources
 C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.Properties.Resources.resources
