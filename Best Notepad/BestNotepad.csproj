@@ -183,12 +183,14 @@
   <ItemGroup>
     <None Include="Resources\speech.png" />
   </ItemGroup>
+    <!-- 
   <ItemGroup>
     <ProjectReference Include="E:\private\csharp\SecondCalculator\SecondCalculator\SecondCalculator.csproj">
       <Project>{7a83737d-6929-445b-a1ee-7c7d2049aa3b}</Project>
       <Name>SecondCalculator</Name>
     </ProjectReference>
   </ItemGroup>
+  -->
   <ItemGroup>
     <Folder Include="Report\" />
   </ItemGroup>

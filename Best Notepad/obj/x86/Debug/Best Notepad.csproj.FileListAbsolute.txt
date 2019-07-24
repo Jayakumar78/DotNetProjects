@@ -20,3 +20,14 @@ E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\D
 E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.csproj.CoreCompileInputs.cache
 E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.exe
 E:\Projects for code-projects\new\c# projects\Text Editor\Best Notepad\obj\x86\Debug\Best Notepad.pdb
+C:\GitDotNetProjects\Best Notepad\bin\Debug\Best Notepad.exe
+C:\GitDotNetProjects\Best Notepad\bin\Debug\Best Notepad.pdb
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best Notepad.csprojAssemblyReference.cache
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best_Notepad.notepad1.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best_Notepad.Login.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best_Notepad.Properties.Resources.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best_Notepad.SpeechForm.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best Notepad.csproj.GenerateResource.cache
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best Notepad.csproj.CoreCompileInputs.cache
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best Notepad.exe
+C:\GitDotNetProjects\Best Notepad\obj\x86\Debug\Best Notepad.pdb

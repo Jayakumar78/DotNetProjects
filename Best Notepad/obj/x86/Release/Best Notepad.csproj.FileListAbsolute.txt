@@ -1,0 +1,10 @@
+C:\GitDotNetProjects\Best Notepad\bin\Release\Best Notepad.exe
+C:\GitDotNetProjects\Best Notepad\bin\Release\Best Notepad.pdb
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.notepad1.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.Login.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.Properties.Resources.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best_Notepad.SpeechForm.resources
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best Notepad.csproj.GenerateResource.cache
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best Notepad.csproj.CoreCompileInputs.cache
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best Notepad.exe
+C:\GitDotNetProjects\Best Notepad\obj\x86\Release\Best Notepad.pdb
